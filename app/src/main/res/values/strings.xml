@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Vigilum</string>
+
+
+    <string name="enroll_form_name">enroll</string>
+
+
+    <string name="fr_h1_select_an_operation">Sélectionner une opération</string>
+    <string name="en_h1_select_an_operation">Select an operation</string>
+
+    <string name="fr_enrolment">enrolment</string>
+    <string name="en_enrolment">enrollement</string>
+
+
+
+    <string name="fr_h2_select_a_method">Sélectionner une methode</string>
+    <string name="en_h2_select_a_method">Select a method of</string>
+
+    <string name="fr_h1_select_a_method">D\'identification</string>
+    <string name="en_h1_select_a_method">Identification</string>
+
+    <string name="fr_h2_enter_your_phone">Entrer votre numéro de </string>
+    <string name="en_h2_enter_your_phone">Enter your phone</string>
+    <string name="fr_h1_number">Téléphone</string>
+    <string name="en_h1_number">Number</string>
+
+    <string name="fr_h2_choose_visit">Sélectionner le motif de</string>
+    <string name="en_h2_choose_visit">Choose visit</string>
+    <string name="fr_h1_reason">Visite</string>
+    <string name="en_h1_reason">Reason</string>
+
+    <string name="fr_h2_confirm_your">Confirmer votre</string>
+    <string name="en_h2_confirm_your">Confirm your</string>
+    <string name="fr_h1_demand">Demande</string>
+    <string name="en_h1_demand">Demand</string>
+
+
+    <string name="fr_h2_identity_verification">Vérification d\'identité</string>
+    <string name="en_h2_identity_verification">Identity Verification</string>
+    <string name="fr_h1_we_want_to_know_you_better">Nous voulons mieux vous connaître</string>
+    <string name="en_h1_we_want_to_know_you_better">We want to know you better</string>
+
+    <string name="fr_h2_guidelines">Guide</string>
+    <string name="en_h2_guidelines">Guidelines</string>
+</resources>
